@@ -38,10 +38,10 @@ jupyter notebook HOME_PRICE_PREDICTION.ipynb
 model.predict(['1st Phase JP Nagar',1000,2,2])  
 ```
 
-## 📈 Results
+## Results
 - **Feature Importance:** location, sqft, bath, bhk
 
 
-## 🤝 Contributing
+## Contributing
 Feel free to fork the repo, create a new branch, and submit a pull request.
 
